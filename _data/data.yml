@@ -54,21 +54,22 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil Profesional
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Especialista en marketing con más de 3 años de experiencia en el área de la publicidad digital.
+      A lo largo de mi trayectoria en Atenera Advertising, he logrado elevar las ventas de nuestra
+      cuenta más importante.
+      
 education:
-    title: Education
+    title: Habilidades
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
+    - item: Climbing
+    - item: Snowboarding
+    - item: Cooking
+    #  - degree: MSc in Computer Science
+    #    university: University of London
+    #    time: 2011 - 2012
+    #    details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -76,10 +77,10 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
+    #  - degree: BSc in Applied Mathematics
+    #    university: Bristol University
+    #    time: 2007 - 2011
+    #    details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
