@@ -61,15 +61,12 @@ career-profile:
       cuenta más importante.
       
 education:
-    title: Habilidades
+    title: Educación
     info:
-    - item: Climbing
-    - item: Snowboarding
-    - item: Cooking
-    #  - degree: MSc in Computer Science
-    #    university: University of London
-    #    time: 2011 - 2012
-    #    details: |
+      - degree: Educación Secundaria Obligatoria
+        university: CEIPSO SALVADOR DALI
+        time: 2019 - 2023
+     #   details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -89,7 +86,7 @@ education:
             - Bullet point
             - Bullet point
 experiences:
-    title: Experiences
+    title: Experiencia
     info:
       - role: Lead Developer
         time: 2015 - Present
